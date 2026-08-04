@@ -132,3 +132,5 @@ pull_request_rules:
           - release/v8.3.x
 merge_protections_settings:
   reporting_method: check-runs
+}
+}
